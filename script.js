@@ -7,7 +7,7 @@ body.addEventListener("mousemove", (e)=>{
     // Get Client 
     let verMove = e.clientY;
     let horMove = e.clientX;
-    let sailSize = (Math.random() *6 + 2) +"px"  ; 
+    let sailSize = (Math.random() *12 + 2) +"px"  ; 
     
 
     // Get animation Duration 
